@@ -1,0 +1,7 @@
+aiohttp
+httpx
+pycryptodome
+colorama
+pyjwt
+uvicorn
+fastapi
